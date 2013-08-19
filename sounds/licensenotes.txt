@@ -1,0 +1,2 @@
+ex_large3.wav, ex_small2.wav: OpenLieroX - LGPL
+ex_large6.wav: Scorched 3D - GPL

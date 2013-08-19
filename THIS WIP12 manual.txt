@@ -1,0 +1,147 @@
+THIS manual (referring to WIP 12)
+===========
+
+== General Info ==
+
+THIS Happens In Space. Your units are space ships and they fly IN SPAAAAAAACE! You produce small ships from carriers and get large ones from hyperspace, capture planets to gain money and shoot stuff to win.
+
+The first choice you face when joining a THIS game is Full Carrier vs Battle Carrier, the former builds faster and is equipped for fighting large ships at close ranges, the Battle Carrier builds slower but supports your forces with artillery from behind.
+
+Once the game starts you see a perk selector on the bottom right and a build list on the right, the perk selector lets you pick a default of three (can be configured in mod options) special attributes that can strongly affect how you play the game. The build bar on the right is kinda equivalent to a C&C build bar, you select something to be built and when it's done you place it near your planets or carriers (applies to allied ones too!).
+
+To get money you capture planets, that's done by moving something into the circle around them and staying there. A planet held by a regular ship won't give you much income, a carrier or a starbase will generate a lot more. That doesn't stack, one or ten units generate the same income. If an enemy moves into the same circle the planet is contested and belongs to noone (if held by a carrier or starbase the enemy will need to bring a carrier or starbase too). The default rules in THIS are that a team loses if it holds no planets for one minute but this can be disabled in the mod options dialog.
+
+Small ships are built at your carrier, just select one and click the buttons. The cost is deducted at the start of the construction. You can set a rally point for a carrier so that all produced units go there. To cancel a construction rightclick the button again (clicking on the queue display does NOT work!).
+
+To get a large ship you use the build bar on the right, you can only build one large ship at a time (but can queue them). Once the construction is finished the icon starts to flash, click it and then click inside a planet or carrier circle to place it. Be aware that the ship will arrive at high speed and in a random direction out of hyperspace so placing a starbase exactly at the edge of a planet's circle might result in the base flying out of it. Again, rightclick the build button to cancel a construction.
+
+Large ships autorepair themselves, small ships must go near a carrier to get repairs.
+
+Many ships have torpedoes. These deal quite some damage when they hit but can be shot down while flying towards the target. The best defense against these is a point defense.
+
+Your minimap is covered in grey boxes, those are the gravidar. They tell you the mass present in the various map areas. Press shift+l to see it displayed in the main view. A good way for detecting enemy fleets. Some ships also carry IR sensors which can detect moving ships, or ones firing high-energy weapons.
+
+One unit of note is the Imperator flagship, it's basically a mobile base with hardpoints that can mount various weapons or useful equipment. It doesn't come with anything preinstalled so be sure you have some money to spend once the thing is finished.
+
+The Spectre minelayer frigate can build gunstars, cheap but barely mobile turrets that can help protect the planet.
+
+For single player or co-op, try the Defenders of the Galaxy (aka chicken) game mode. Invaders spawn from starbases warped in at random locations on the map - fend them off and destroy the starbases to stay alive. After about 30 minutes the flagship (an Imperator with lots of weapons) warps in - destroy it to win the game. 
+
+
+== Small Ships ==
+
+Dagger: Cheap, fast, weak. It comes with a bunch of kinetic guns that do low but sustained damage. If you need a cheap ship for scouting or grabbing a neutral planet the Dagger is a good option
+
+Sword: A shorter ranged main battle unit, the Sword's missiles make it a threat to anything.
+
+Mace: Laser ship with mag shield. The Mace has a low damage output but high accuracy and a lot of armor. The mag shield greatly reduces the damage taken from plasma weapons.
+
+Claymore: Longer ranged plasma ship, plasma weapons deal extra damage to large ships and can hurt small ones pretty well too. Unlike torpedoes a fired plasma shot cannot be stopped but the damage can be reduced by mag shields.
+
+Longbow: A torpedo bomber with a mag shield, it's the cheapest way to get more torpedoes in your fleet. It can be set to volley fire to launch twelve torpedoes in rapid succession before taking a long time to reload. Longbows can target small ships too but aren't terribly effective at that.
+
+Chu-ke Nu: Launches bomber drones that swarm around a target and hit it with missile volleys. While they aren't very strong in small numbers the launchers can be kept behind the fighting which makes them live very long and give you a lot of use for your investment.
+
+Warhammer: A cloaked missile bomber. Missiles, unlike torpedoes, cannot be shot down. The Warhammer can only be used if you pick the matching perk but it is a very versatile unit that can be used for anything from stealth recon to assassinations of large ships.
+
+Wraith: Point defense. It shoots drones and torpedoes down but cannot fight. Keeping a few around big ships is always a good idea since torpedoes are a big source of damage for those.
+
+Iris: A stealthy surveillance probe, the Iris can remain undetected while moving and has good IR sensors. The grav decoy function allows the Iris to generate the gravidar signature of a Comet, deceiving the enemy. The probe carries some pretty powerful explosives, so you can also use it as an improvised mine with its kamikaze attack.
+
+== Gunstars ==
+
+Cannon Gunstar: The basic defense, cheap and armed with a dual kinetic gun. It has enough range to hit most stuff, which is just as well given how slowly it moves.
+
+Torpedo Gunstar: A nasty surprise for large ships, the torp gunstar fires torpedoes in volleys of four. The straight-line torpedoes are easily intercepted so you'll want to catch enemies in pincers for maximum effectiveness.
+
+== Large ships ==
+
+Fleet Carrier: Pretty much a mobile factory, it builds fast. The carrier has torpedoes and gravitics to fight large ships but only two peashooters for fighting smaller ships. The gravitics allow it to deal a lot of damage at close range so going into close combat if possible is advisable.
+
+Support Carrier: It can field an army and give it fire support too, the SC comes with artillery but builds slower than the Fleet Carrier. The torpedoes can help against large foes but the lack of gravitics means the Support Carrier should keep its distance.
+
+Starbase: Pretty weakly armed station that is mostly useful for its economic benefit: When a Starbase holds a planet that planet outputs more money. Starbases can move though it's VERY slow.
+
+Meteor: The lightest and fastest of the large combat ships, the Meteor is an anti-fighter frigate. Its medium lasers and missiles can cut down smaller ships with ease. Try not to use Meteors against capital ships; they'll get mashed by plasma and gravitrics fairly quickly. If surrounded by numerous fighters, the Meteor can detonate an EMP bomb on the spot to slow surrounding units (and itself).
+
+Spectre: A minelayer ship, the Spectre deploys gunstars to protect your planets. It can fend off small attackers with its missile launchers, but really isn't built for fighting.
+
+Comet: A fast attack destroyer. Comets have gravitics, large plasma cannons and torpedoes, giving them a lot of firepower vs large ships at any range. The Comet also moves faster than most large ships. Charging in frontally may still be suicide but Comets are great for taking the enemy from directions he doesn't expect.
+
+Starslayer: Artillery. It has four times the firepower of a Support Carrier for that. Starslayers also have powerful plasma flak weapons that are very good at intercepting drones or torpedoes and deal a lot of damage to small ships as well.
+
+Eclipse: This battlecruiser is slow, expensive and capable of destroying any other large ship it encounters short of an Imperator. It is armed with a graser, multiple kinetics and lasers, and a powerful torpedo volley. Pressing the "dgun" key (D) lets you fire the megalaser, which can rip apart any large ship in seconds but cannot be aimed at small ships.
+
+Imperator: A flagship. You can have only one of it. The Imperator is slow, VERY slow. It comes without weapons but has 17 hardpoints which you can install weapons or helpful parts on. Those cost extra, of course. The Imperator can only be destroyed by shooting its control tower located at the center. Of course that destroys all the expensive weapons too so make sure you protect it.
+Imperator hardpoints show an arrow when selected, that is the orientation of the hardpoint. For most of its weapons that defines the area it can be fired at.
+
+
+== Turrets (for mounting on the Imperator) ==
+
+Hangar: Builds small ships just like a carrier, not much to say about that.
+
+Drone Hive: Maintains a swarm of drones buzzing around.
+
+Point Defese: Covers a wide arc with heavy PD fire, letting no enemy drones or torpedoes operate there.
+
+Antimatter Beam: A massively powerful beam cannon, covers a fairly wide arc with deadly antimatter fire that can rip a large ship apart in seconds and even has some light point defense. Its weaknesses are the limited fire arc that makes it vulnerable to flanking and the long charge up time, it's pretty effective to send a Dagger into one end of the arc moments before sending the rest of your force past the other end but be careful, getting a large ship through may still take too long.
+
+Battle Turret: A 360° covering kinetic cannon. It deals decent damage but doesn't have a lot of range or firepower, more of a safety option to cover blind spots on your Imperator.
+
+Plasma Cannon: Artillery. It has a fairly narrow arc but provides all the firepower of a Starslayer, at least at range.
+
+
+== Perks ==
+Mass driver weapons: Kinetics have improved accuracy and splinter upon impact, damaging all nearby enemy ships (but not torpedoes or drones). However, they have a lower rate of fire.
+
+Open armory policy: Attaches extra weapons to almost all units. On smaller ships this is a lot of extra firepower, though on capships it's only a fairly small increase.
+
+Public Support: Gives a base income (equal to one planet with a carrier) and increases output of Starbases by 20%.
+
+Advanced automation: Reduces buildtime on small ships by 50% and large ships by 15%.
+
+High-res Sensors: Increases the gravidar resolution, allowing for better detection of enemy ships. Also improves IR sensor range by 50%.
+
+Dark matter technology: Increases the range of gravitric weapons.
+
+Cloaking system: Enables the production of the cloaked Warhammer bomber.
+	
+Shield crazy: Mounts a reduced strength mag-shield on all units that deflects plasma (reduces damage by 40%). Useful if you're having trouble with the enemy using plasma weapons.
+
+Inventive: The armor of newly built units increases as time passes (i.e. units built later in the game have extra health). The increase is 3%/minute, which can add up really quickly.
+
+EMP Missiles: Missiles release electromagnetic pulses when exploding, slowing the movement and firing rate of affected units.
+
+Antimatter Warheads: Torpedoes gain a secondary explosion that goes off when the torp hits or is destroyed. The secondary explosion adds a lot of AoE and considerably increases the torpedo's damage against large ships.
+
+Microsingularity Device: Gravitic weapons can shoot flak-like shots in addition to their normal attack. The grav-flak can target small ships and works quite well as point defense.
+
+
+== Sensors ==
+
+Gravidar: Detects ships by mass, indicating their position as grey boxes on the minimap. The gravidar serves as excellent early warning against capital ship incursions due to its infinite range, but doesn't work so well against fighters (it takes a huge number of them in one place to be detectable). Planets can mask the grav signatures of nearby ships.
+
+Infrared sensors: Carried on some ships (carriers, starbases and the Iris), the IR sensors pick up nearby ships which are moving or firing high-energy weapons such as plasma. Detected ships are indicated as Spring radar dots. Torpedoes, drones, starbases, gunstars, probes, Warhammers and Wraiths do not appear on IR sensors.
+
+
+== Weapons ==
+
+Kinetic: High ROF blasters found on most ships, inaccurate but cheap. Kinetic weapons can function as substitute point defense although they aren't too good at it. The exception is the Battle Cannon's kinetic weapon, which is a high-damage low-ROF cannon. Kinetic shots are visible as thin yellow lines.
+
+Plasma: Slow, powerful blue bolts that aren't too accurate but have great power and AoE. They are most effective against large ships (2x damage). Mag-shielding considerably reduces the damage done by plasma weapons.
+
+Missile: Highly damaging short-range weapons carried by a few ships. They can't be intercepted, unlike torpedoes.
+
+Laser: Comparatively weak, but very accurate, making them ideal against fighters and torpedoes/drones. Note that the point defense variety can only attack torpedoes and drones, nothing else.
+
+Gravitrics: Only found on some larger ships, gravitrics have a short range but do immense damage. The standard grav gun can only hit capital ships, but with the Microsingularity Device perk, gravitric-armed ships can also fire grav-flak at small ships and torpedoes/drones. Gravitric weapons are visible as a white beam with a big black explosion.
+
+Torpedo: Used by the Longbow and most large ships. Torpedoes are powerful and long-ranging but can be shot down midflight. Large ships can only use their torpedoes against other large ships, Longbows can fire at small ships as well (though they aren't very effective in this without the AM Torpedoes perk).
+
+Drone: Launched from the Chu-ke Nu and Imperator Hive (for free), drones swarm their target and launch little missiles at it. They have low HP, but in large numbers they're very hard to knock out before they close in and do heavy damage, and they also draw fire away from friendly ships.
+
+
+== Known Issues ==
+
+-Sometimes torpedoes give a lua error when their target is killed before they get there.
+-Need a replacement chicken panel image.

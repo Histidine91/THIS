@@ -1,0 +1,55 @@
+Summary:
+This is a space based mod. All units are gunships (fighters and bombers do not exist), attack dance is disabled and all that jazz. There is no main base, at least not one that involves buildings.
+Playing is done on an empty map which has lua-spawned planets on it. Having units near a planet claims that planet, the planet will produce credits for the alliance holding it. If units of more than one alliance are in radius of a planet the planet is neutral.
+Resources are only one, credits. Payment is done at the start of the construction, the construction is done in Lua.
+Larger ships act as factories for small ships. Large ships themselves are warped in once they are completed. Small ships repair if they are near a large ship, large ships autorepair.
+Each player gets a fixed number of points he can spend on "perks".
+
+Weapon systems:
+Grav: Short range, high damage, only on large ships
+Kinetic: Can be used at long range but is too inaccurate, good damage.
+Laser: Low rate of fire but good accuracy
+Plasma: Huge blast radius but can be deflected with mag shields
+Missiles: Guided, come in many types but low rate of fire
+
+Other systems:
+Mag shield: Deflects most of the damage from plasma weapons and some damage from lasers and missiles.
+Grav shield: Deflects most damage as long as no enemy unit is within its radius, once an enemy gets close the shield deactivates
+
+*= needs perk
+
+Large Ships:
+Fleet Carrier: Main production, some weak guns for raid protection and one grav gun.
+Support Carrier: Reduced production but much better armament (mid range lasers, autocannons for short range, one plasma artillery and a grav gun)
+Starhammer: Armed with mostly plasma artillery and a few mid-range plasma defenses
+Wrecking Ball: Heavy armor, mag shields and grav guns, no ranged armament though
+Banner: Combat ship with mostly medium-range weapons (plasma, laser and kinetic) and a grav shield
+Comet: Fast large ship with dual plasma cannons, lasers and a grav gun
+Nova*: Launches very long range missiles but has no defense of its own
+
+Small Ships:
+Dagger: Simple ship with dual kinetics
+Sword: One kinetic and dual missiles, high spike damage
+Claymore: Plasma cannon and one kinetic
+Katana: Dual kinetics and a grav shield
+Rapier: Heavy plasma cannon (strong but slow reload) and grav shield
+Mace: Mag shield but only one kinetic
+Spear: Heavy laser ship, slow (sniper)
+Warhammer*: Cloaked ship, can fire a strong missile volley but reloads slowly
+Morning Star: Mag shield and plasma cannon
+Handgrenade: Armored ship with a plasma field cannon (does damage to everything in a certain radius around the ship) and a mag shield
+
+Perks:
+Shield crazy: All ships get a weak mag shield
+Dark matter technology: Grav shields have a smaller breach radius, grav guns have more range.
+Advanced automation: Build times are reduced
+Chief weapon: Warhammer becomes available
+Public support: Get a base income even without planets
+Shattering kaboom: Destroyed enemies do damage proportional to their max HP to nearby units
+Conventional thinking: High accuracy and increased rate of fire for kinetic weapons
+Improved guidance: Nova becomes available
+Outsourcing: Large ships are cheaper but have less HP
+Flak cannon: Kinetic weapons have an area of effect
+Microwave chemistry: Missiles do some EMP damage
+Fortuna's favourite: Small chance that damaged enemies will die instantly (depends on damage and remaining HP)
+Open armory policy: Ships get extra weapons

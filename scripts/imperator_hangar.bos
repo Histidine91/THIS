@@ -1,0 +1,11 @@
+piece base, body,bay0,bay1;
+
+Create() {
+	return 0;
+}
+
+Killed() {
+	emit-sfx 1025 from base;
+	sleep 600;
+	hide body;
+}
