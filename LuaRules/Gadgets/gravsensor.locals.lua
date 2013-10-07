@@ -22,7 +22,7 @@ function gadget:GetInfo()
 		date = "2008-03-04",
 		license = "Public Domain",
 		layer = 15,
-		enabled = true
+		enabled = false
 	}
 end
 
@@ -266,6 +266,7 @@ local function DrawGrav()
 			PopMatrix()
 			Translate(0,0,resolution*noPerkPenalty)
 		end
+		PopMatrix()
 	end
 	PopMatrix()
 	glDepthTest(false)
